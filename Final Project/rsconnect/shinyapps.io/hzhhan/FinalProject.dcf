@@ -1,0 +1,12 @@
+name: FinalProject
+title: FinalProject
+username:
+account: hzhhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2392547
+bundleId: 3234587
+url: https://hzhhan.shinyapps.io/FinalProject/
+when: 1591400883.80805
+asMultiple: FALSE
+asStatic: FALSE
